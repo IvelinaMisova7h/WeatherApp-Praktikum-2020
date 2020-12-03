@@ -1,0 +1,30 @@
+.jumbotron {
+            border-radius: 0%;
+        }
+
+        h1 {
+            color: aquamarine;
+        }
+
+        #lab {
+            color: azure;
+            font-size: 1.5em;
+        }
+
+        p {
+            color: azure;
+        }
+
+        #bot {
+            color: antiquewhite;
+        }
+
+
+
+.btn:hover{opacity: 1}
+
+.btn:active{
+           background-color:rgba(71, 18, 218, 0.952);
+           box-shadow: 0 5px rgba(180, 224, 150, 0.815);
+           transform: translateY(4px);
+       }   
